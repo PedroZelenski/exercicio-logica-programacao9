@@ -1,0 +1,13 @@
+C:\repo\exercicio-logica-programacao9\bin\Debug\netcoreapp3.1\exercicio-logica-programacao9.exe
+C:\repo\exercicio-logica-programacao9\bin\Debug\netcoreapp3.1\exercicio-logica-programacao9.deps.json
+C:\repo\exercicio-logica-programacao9\bin\Debug\netcoreapp3.1\exercicio-logica-programacao9.runtimeconfig.json
+C:\repo\exercicio-logica-programacao9\bin\Debug\netcoreapp3.1\exercicio-logica-programacao9.runtimeconfig.dev.json
+C:\repo\exercicio-logica-programacao9\bin\Debug\netcoreapp3.1\exercicio-logica-programacao9.dll
+C:\repo\exercicio-logica-programacao9\bin\Debug\netcoreapp3.1\exercicio-logica-programacao9.pdb
+C:\repo\exercicio-logica-programacao9\obj\Debug\netcoreapp3.1\exercicio-logica-programacao9.csprojAssemblyReference.cache
+C:\repo\exercicio-logica-programacao9\obj\Debug\netcoreapp3.1\exercicio-logica-programacao9.AssemblyInfoInputs.cache
+C:\repo\exercicio-logica-programacao9\obj\Debug\netcoreapp3.1\exercicio-logica-programacao9.AssemblyInfo.cs
+C:\repo\exercicio-logica-programacao9\obj\Debug\netcoreapp3.1\exercicio-logica-programacao9.csproj.CoreCompileInputs.cache
+C:\repo\exercicio-logica-programacao9\obj\Debug\netcoreapp3.1\exercicio-logica-programacao9.dll
+C:\repo\exercicio-logica-programacao9\obj\Debug\netcoreapp3.1\exercicio-logica-programacao9.pdb
+C:\repo\exercicio-logica-programacao9\obj\Debug\netcoreapp3.1\exercicio-logica-programacao9.genruntimeconfig.cache
